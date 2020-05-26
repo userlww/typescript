@@ -3,3 +3,4 @@ function greeter(person) {
 }
 var user = "Jane User";
 document.body.innerHTML = greeter(user);
+console.log('测试1.1版本')
